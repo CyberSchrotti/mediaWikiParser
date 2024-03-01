@@ -1,0 +1,4 @@
+mwparserfromhell
+networkit 
+numpy
+scipy
